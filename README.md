@@ -1,0 +1,2 @@
+# Cyclistic-Case-Study
+Cyclistic bike-share analysis, this case study has been completed as the final capestone project for the Google Data Analytics Professional Certificate. The purpose of this case study is to answer the key business questions of a fictional company, Cyclistic, by following the steps of the data analysis process which has been taught in the course: ask, prepare, process, analyze, share and act.
