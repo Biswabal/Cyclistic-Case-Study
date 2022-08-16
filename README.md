@@ -4,9 +4,9 @@ This repository contains:
 * The R Markdown file which has been used to clean and analyze the Cyclistic historic trip data, and
 * A presentation slide summarizing key findings.
 
-The data cleaning and analysis report completed using R can be found [here](https://rpubs.com/Biswa/Cyclistic-Case-Study).
+The data cleaning and analysis report completed using R can be found [**here**](https://rpubs.com/Biswa/Cyclistic-Case-Study).
 
-The visualization completed using Tableau can be found [here](https://public.tableau.com/app/profile/biswabal.gurung/viz/CyclisticCaseStudy_16581403921920/CyclisticCaseStudy).
+The visualization completed using Tableau can be found [**here**](https://public.tableau.com/app/profile/biswabal.gurung/viz/CyclisticCaseStudy_16581403921920/CyclisticCaseStudy).
 
 # About the Case Study
 
@@ -33,4 +33,4 @@ The aim is to analyze the historical bike trip data to identify trends and bette
 * Send push notification to casual riders who rides on weekdays to commute.
 * Offer student discounted membership.
 
-Full report can be found [here](https://rpubs.com/Biswa/Cyclistic-Case-Study).
+Full report can be found [**here**](https://rpubs.com/Biswa/Cyclistic-Case-Study).
